@@ -1,0 +1,39 @@
+
+state={
+	id=16
+	name="STATE_16"
+	resources={
+		steel=22.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			11506 50 
+		}
+		victory_points = {
+			9523 1 
+		}
+		victory_points = {
+			9534 1 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 7
+			arms_factory = 7
+			rubber_factory = 1
+			anti_air_building = 3
+			air_base = 8
+
+		}
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		6949 9523 9534 9725 11491 11506 11518 
+	}
+	manpower=11115572
+	buildings_max_level_factor=1.000
+	state_category=state_level_21
+}

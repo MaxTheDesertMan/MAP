@@ -1,0 +1,23 @@
+state={
+	id=734
+	name="STATE_734"
+	manpower = 9008
+	state_category = state_level_1
+
+	history={
+		owner = SOL
+		add_core_of = SOL
+		buildings = {
+			infrastructure = 3
+			7390 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	buildings_max_level_factor=1.000
+
+	provinces={
+		7390 
+	}
+}

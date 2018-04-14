@@ -1,0 +1,18 @@
+state={
+	id=922
+	name="STATE_922"
+	history = {
+		owner = MAD
+		add_core_of = MAD
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		2200 8246 12956 
+	}
+	manpower=2150454
+	buildings_max_level_factor=1.000
+	state_category = state_level_2
+}

@@ -1,0 +1,26 @@
+state={
+	id=821
+	name="STATE_821"
+
+	history={
+		owner = UZB
+		add_core_of = UZB
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+			air_base = 1
+		}
+		victory_points = { 7775 5 }
+		victory_points = { 1573 3 }
+		victory_points = { 7639 3 }
+		victory_points = { 12239 1 }
+
+	}
+
+	provinces={
+		1573 7639 10671 12239 12722 1623 10470 7775 4499 
+	}
+	manpower=7691000
+	buildings_max_level_factor=1.000
+	state_category = state_level_10
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=732
+	name="STATE_732"
+	
+	resources = {
+		aluminium = 11
+	}
+
+	history={
+		owner = TJI
+		add_core_of = TJI
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 10417 1 }
+		victory_points = { 12805 1 }
+	}
+
+	provinces={
+		4467 4923 8027 10417 12805 
+	}
+	manpower=206000
+	buildings_max_level_factor=1.000
+	state_category = state_level_0
+}

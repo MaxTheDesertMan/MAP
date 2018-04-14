@@ -1,0 +1,21 @@
+
+state={
+	id=156
+	name="STATE_156"
+	manpower = 2442446
+	
+	state_category = state_level_2
+	
+	
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = ITA
+	}
+
+	provinces={
+		3901 9990 10027 12066 12098 9856 3968 6972 3966 3923 
+	}
+}

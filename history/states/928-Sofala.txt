@@ -1,0 +1,28 @@
+
+state={
+	id=928
+	name="STATE_928"
+	resources={
+		aluminium=10.000
+	}
+	history = {
+		owner = MZB
+		add_core_of = MZB
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			2120 1 
+		}
+
+	}
+
+	
+	provinces={
+		2120 12935 5155 12950 
+	}
+	manpower=5819337
+	buildings_max_level_factor=1.000
+	state_category = state_level_3
+}

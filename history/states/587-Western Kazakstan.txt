@@ -1,0 +1,28 @@
+
+state={
+	id=587
+	name="STATE_587"
+
+	history={
+		owner = UZB
+		add_core_of = UZB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = { 1614 3 }
+		victory_points = { 10395 1 }
+		victory_points = { 1576 2 }
+		victory_points = { 12474 1 }
+		victory_points = { 10435 1 }
+
+	}
+
+	provinces={
+		7541 7641 10395 10435 12233 12383 12454 12474 10348 1479 1614 1576 4618 4488 13242 
+	}
+	manpower=2728000
+	buildings_max_level_factor=1.000
+	state_category = state_level_5
+}

@@ -1,0 +1,21 @@
+state={
+	id=932
+	name="STATE_932"
+	history = {
+		owner = BOT
+		add_core_of = BOT
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+
+	provinces={
+		1580 
+	}
+	manpower=209687
+	buildings_max_level_factor=1.000
+	state_category = state_level_1
+}

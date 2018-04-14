@@ -1,0 +1,25 @@
+
+state={
+	id=940
+	name="STATE_940"
+	manpower=752700
+	
+	state_category = state_level_2
+	
+	resources = {
+		steel = 1
+	}
+	
+	history={
+		owner = ROM
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = ROM
+		add_core_of = HUN
+	}
+
+	provinces={
+		9670 711 9668 3689 
+	}
+}

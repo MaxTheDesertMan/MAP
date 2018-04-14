@@ -1,0 +1,19 @@
+
+state={
+	id=937
+	name="STATE_937"
+	history = {
+		owner = ZAM
+		add_core_of = ZAM
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+	provinces={
+		697 10538 7872 12677 
+	}
+	manpower=3760000
+	buildings_max_level_factor=1.000
+	state_category = state_level_2
+}

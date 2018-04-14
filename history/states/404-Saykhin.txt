@@ -1,0 +1,25 @@
+
+state={
+	id=404
+	name="STATE_404" #not_found_haha_im_funny_not_really_please_help_me_i_have_depression_obvously_not_a_paradox_note_you_are_not_going_to_even_see_this_neither_read_it_so_i_guess_i_can_say_the_n_word_here_lol
+	
+	resources = {
+		oil=15
+		steel=3
+	}
+	history = {
+		owner = KAZ
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+
+	provinces={
+		1243 1312 1382 1402 4250 4277 4389 4595 7335 7392 10179 10220 10268 10275 10277 12111 12121 12177 12194 1239 7405 
+	}
+	manpower=1341700
+	buildings_max_level_factor=1.000
+	state_category = state_level_4
+}

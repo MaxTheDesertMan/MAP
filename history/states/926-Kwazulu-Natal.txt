@@ -1,0 +1,28 @@
+
+state={
+	id=926
+	name="STATE_926"
+	history = {
+		owner = SAF
+		buildings = {
+			infrastructure = 4
+			1468 = {
+				naval_base = 2
+
+			}
+			
+		}
+		victory_points = {
+			1468 3 
+		}
+		add_core_of = SAF
+
+	}
+
+	provinces={
+		1468 1494 8178 
+	}
+	manpower=8967300
+	buildings_max_level_factor=1.000
+	state_category=state_level_8
+}

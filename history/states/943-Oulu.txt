@@ -1,0 +1,24 @@
+
+state={
+	id=943
+	name="STATE_943"
+	
+	manpower = 458504
+	
+	state_category = state_level_3
+	
+	history={
+		owner = FIN
+		add_core_of = FIN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			158 1 
+		}
+	}
+
+	provinces={
+		3026 3153 6045 6179 3156 3073 3115 6134 3149 9233 11079 11024 9106 7 6146 3125 11041 11081 158 120 82 6212 11121 132 6081 195 11132 9219 13118 
+	}
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=231
+	name="STATE_231"
+
+	history={
+		owner = GEO
+		add_core_of = GEO
+		victory_points = { 1599 10 }
+		victory_points = { 3653 2 }
+		victory_points = { 3658 2 }
+		victory_points = { 6671 1 }
+		victory_points = { 772 1 }
+		victory_points = { 6436 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			air_base = 4
+			3653 = { naval_base = 3 }
+		}
+	}
+
+	provinces={
+		654 772 1599 3653 3656 3658 4534 6669 6671 9626 9702 12309 4605 6436
+	}
+	manpower=4218000
+	buildings_max_level_factor=1.000
+	state_category = state_level_10
+}

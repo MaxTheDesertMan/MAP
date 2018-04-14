@@ -1,0 +1,22 @@
+state={
+	id=933
+	name="STATE_933"
+	history = {
+		owner = ZIM
+		add_core_of = ZIM
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+}
+	
+
+	provinces={
+		1874 4851 
+	}
+	manpower=3953526
+	buildings_max_level_factor=1.000
+	state_category = state_level_4
+}

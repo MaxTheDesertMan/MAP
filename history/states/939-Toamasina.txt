@@ -1,0 +1,25 @@
+
+state={
+	id=939
+	name="STATE_939"
+	history = {
+		owner = MAD
+		add_core_of = MAD
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			5222 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+	provinces={
+		5185 8188 5222 
+	}
+	manpower=5734544
+	buildings_max_level_factor=1.000
+	state_category = state_level_4
+}

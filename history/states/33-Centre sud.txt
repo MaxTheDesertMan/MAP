@@ -1,0 +1,29 @@
+
+state={
+	id=33
+	name="STATE_33"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+
+		}
+		add_core_of = FRA
+		victory_points = {
+			11420 5 
+		}
+
+	}
+
+	provinces={
+		454 3402 3447 6585 9561 11420 11549 
+	}
+	manpower=1768554
+	buildings_max_level_factor=1.000
+	state_category=state_level_6
+}

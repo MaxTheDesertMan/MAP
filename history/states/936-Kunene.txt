@@ -1,0 +1,26 @@
+
+state={
+	id=936
+	name="STATE_936"
+
+	history={
+		owner = NAM
+		add_core_of = NAM
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			12519 3 
+		}
+
+	}
+
+	provinces={
+		8136 12921 12519 10957 7770 
+	}
+	manpower=1035063
+	buildings_max_level_factor=1.000
+	state_category=state_level_4
+}

@@ -1,0 +1,23 @@
+state={
+	id=822
+	name="STATE_822"
+	history={
+		owner = KYR
+		add_core_of = KYR
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 1483 3 }
+		victory_points = { 10530 1 }
+		victory_points = { 4768 1 }
+		victory_points = { 10408 1 }
+		victory_points = { 1675 1 }
+	}
+
+	provinces={
+		1483 1675 2058 4316 4391 4768 5062 10408 10530 12370 12511 12581 4224 
+	}
+	manpower=3090500
+	buildings_max_level_factor=1.000
+	state_category = state_level_6
+}

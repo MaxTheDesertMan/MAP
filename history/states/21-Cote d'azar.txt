@@ -1,0 +1,49 @@
+
+state={
+	id=21
+	name="STATE_21"
+
+	history={
+		owner = FRA
+		victory_points = {
+			911 5 
+		}
+		victory_points = {
+			956 3 
+		}
+		victory_points = {
+			958 1 
+		}
+		victory_points = {
+			11834 20 
+		}
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 3
+			dockyard = 2
+			arms_factory = 1
+			rubber_factory = 1
+			air_base = 10
+			911 = {
+				naval_base = 10
+				coastal_bunker = 1
+
+			}
+			11834 = {
+				naval_base = 3
+				coastal_bunker = 1
+
+			}
+
+		}
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		911 956 958 3762 3764 3928 3961 9736 11834 11849 11875 
+	}
+	manpower=3611494
+	buildings_max_level_factor=1.000
+	state_category=state_level_16
+}

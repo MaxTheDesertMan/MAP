@@ -1,0 +1,28 @@
+
+state={
+	id=402
+	name="STATE_402"
+	resources={
+		oil=24.000
+		steel=2.000
+		chromium=320.000
+	}
+
+	history={
+		owner = KAZ
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		1220 1247 1314 1371 1429 4227 4254 4294 4376 4394 7313 7337 7341 7354 7370 7410 10164 10253 10264 12108 12179 12227 12235 12254 12294 
+	}
+	manpower=757768
+	buildings_max_level_factor=1.000
+	state_category = state_level_4
+}

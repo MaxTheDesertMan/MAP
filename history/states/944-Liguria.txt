@@ -1,0 +1,32 @@
+
+state={
+	id=944
+	name="STATE_944"
+	manpower = 1508210
+	
+	state_category = state_level_5
+	
+	resources = {
+		steel = 12
+	}
+	
+	history={
+		owner = ITA
+		victory_points = {
+			6788 10 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			dockyard = 2
+			6788 = {
+				naval_base = 8
+			}
+		}
+		add_core_of = ITA
+	}
+
+	provinces={
+		3772 6788 11891 
+	}
+}

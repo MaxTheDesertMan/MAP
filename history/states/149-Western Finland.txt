@@ -1,0 +1,50 @@
+
+state={
+	id=149
+	name="STATE_149" 
+	
+	resources={
+		chromium = 35
+		oil = 1
+		steel = 9
+	}
+	
+	manpower = 1848269
+	
+	state_category = state_level_9
+	
+	history={
+		owner = FIN
+		victory_points = {
+			3122 3 
+		}
+		victory_points = {
+			6141 1
+		}
+		victory_points = {
+			6066 1 
+		}
+		victory_points = {
+			3137 10 
+		}
+		victory_points = {
+			3083 20 		#Turku
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			3122 = {
+				naval_base = 1
+			}
+			3083 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+		add_core_of = FIN
+	}
+
+	provinces={
+		63 66 3119 3122 3172 6013 6138 6141 6198 9038 9156 9166 11033 11065 11126 11144 13113 9160 6163 6047 3025 3009 3117 32 3137 169 11172 9194 9094 3083 6066 13107 13106 13101 13102 
+	}
+}
