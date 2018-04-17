@@ -4,7 +4,8 @@ state={
 	name="STATE_920"
 	history = {
 		owner = FRA
-		add_claim_by = FRA
+		add_core_of = FRA
+		add_core_of = CAT
 		buildings = {
 			infrastructure = 7
 		}

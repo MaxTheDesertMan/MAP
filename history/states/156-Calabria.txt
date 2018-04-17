@@ -4,7 +4,7 @@ state={
 	name="STATE_156"
 	manpower = 2442446
 	
-	state_category = state_level_2
+	state_category = state_level_4
 	
 	
 	history={
@@ -16,6 +16,6 @@ state={
 	}
 
 	provinces={
-		3901 9990 10027 12066 12098 9856 3968 6972 3966 3923 
+		3901 9990 10027 12066 12098 9856 3968 6972 
 	}
 }
